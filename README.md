@@ -43,15 +43,11 @@ psnr = calculate_psnr_simple(ref_y, dis_y)
 psnr_div = calculate_psnr_div(ref_y, dis_y, flow)
 ```
 
-## The PSNR-DIV Metric
-
-Standard PSNR treats all pixel errors equally, but human perception is sensitive to temporal inconsistencies. PSNR-DIV addresses this by weighting errors based on **motion-field divergence**.
-
 ## Examples
 
 ### Divergence Overlays
 
-Motion divergence overlays visualize regions with high divergence (potential artifacts). Red regions indicate high divergence:
+Motion divergence overlays visualise regions with high divergence (potential artifacts). Red regions indicate high divergence:
 
 **DVF (Depth-Aware Video Frame Interpolation):**
 
