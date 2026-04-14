@@ -4,7 +4,7 @@ Authors: Conall Daly, Darren Ramsook, Anil Kokaram (Trinity College Dublin)
 IEEE 17th International Conference on Quality of Multimedia Experience (QoMEX) 2025
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.01361-b31b1b.svg)](https://arxiv.org/abs/2510.01361)
-[![Conference](https://img.shields.io/badge/Conference-QoMEX%202025-blue.svg)](https://qomex2025.org/)
+[![Conference](https://img.shields.io/badge/Conference-QoMEX%202025-blue.svg)](https://ieeexplore.ieee.org/abstract/document/11219984)
 
 **PSNR-DIV** is a full-reference video quality metric that enhances standard PSNR by weighting image errors based on **motion-field divergence**. Adapted from archival film restoration techniques, it detects temporal inconsistencies in video frame interpolation.
 
